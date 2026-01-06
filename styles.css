@@ -106,8 +106,14 @@ font-size: 0.9rem;
   text-decoration: none;
 }
 
-.button.secondary {
-  background: transparent;
-  color: var(--text);
-  border: 1px solid var(--border);
+.button.linkedin {
+  background: #0a66c2;
+  color: #ffffff;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.button.linkedin:hover {
+  background: #004182;
 }
