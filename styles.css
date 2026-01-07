@@ -160,4 +160,6 @@ font-size: 0.9rem;
   gap: 10px;
   margin-top: 12px;
 }
-
+.button {
+  line-height: 1;
+}
