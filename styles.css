@@ -37,7 +37,7 @@ border-bottom: 1px solid var(--border);
 
 h1 {
 margin: 5;
-font-size: 12.2rem;
+font-size: 8.2rem;
   color: orange;
   text-align: center;
 }
@@ -119,19 +119,7 @@ font-size: 0.9rem;
 .button.linkedin:hover {
   background: #004182;
 }
-.header {
-  display: flex;
-  gap: 16px;
-  align-items: center;
-}
 
-.avatar {
-  width: 88px;
-  height: 88px;
-  border-radius: 999px;
-  object-fit: cover;
-  border: 1px solid var(--border);
-}
 
 .header {
   display: flex;
