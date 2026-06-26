@@ -1,5 +1,6 @@
 # Henri Leppänen
 ![Henri](profile.jpg)
+<img src="images/profiilikuva.jpg" width="200">
 
 Tervetuloa portfoliooni
 Olen ICT-alan opiskelija ja data-analyytikko. Täältä löydät esimerkkejä ratkaisuistani.
