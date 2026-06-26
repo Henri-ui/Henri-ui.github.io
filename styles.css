@@ -20,3 +20,10 @@ h1 { color: #2c3e50; }
     padding: 20px; 
     border-radius: 8px; 
 }
+.profile-img {
+    width: 200px;         /* Kuvan leveys */
+    height: 200px;        /* Kuvan korkeus */
+    object-fit: cover;    /* Pitää kuvan suhteet oikeina, vaikka se olisi väärän muotoinen */
+    border-radius: 50%;   /* Tekee kuvasta pyöreän, näyttää ammattimaiselta */
+    margin-bottom: 20px;
+}
