@@ -1,29 +1,42 @@
 body { 
-    font-family: sans-serif; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
     line-height: 1.6; 
     max-width: 800px; 
     margin: 40px auto; 
     padding: 0 20px; 
     color: #333; 
+    background-color: #f4f4f9;
 }
+
+header { text-align: center; margin-bottom: 40px; }
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #2c3e50;
+    margin-bottom: 10px;
+}
+
 .grid { 
     display: grid; 
     grid-template-columns: 1fr 1fr; 
     gap: 20px; 
 }
+
 @media (max-width: 600px) { 
     .grid { grid-template-columns: 1fr; } 
 }
-h1 { color: #2c3e50; }
+
 .box { 
+    background: white;
     border: 1px solid #ddd; 
     padding: 20px; 
     border-radius: 8px; 
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
-.profile.jpg {
-    width: 200px;         /* Kuvan leveys */
-    height: 200px;        /* Kuvan korkeus */
-    object-fit: cover;    /* Pitää kuvan suhteet oikeina, vaikka se olisi väärän muotoinen */
-    border-radius: 50%;   /* Tekee kuvasta pyöreän, näyttää ammattimaiselta */
-    margin-bottom: 20px;
-}
+
+h1 { color: #2c3e50; margin: 10px 0; }
+a { color: #007bff; text-decoration: none; font-weight: bold; }
+a:hover { text-decoration: underline; }
