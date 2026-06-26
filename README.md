@@ -13,9 +13,9 @@ ArchiMate: Yritysarkkitehtuurin mallinnus.
 
 ### Projektit
 
-* 1. Asiakaspalvelun tehostaminen (SQL)
+* Asiakaspalvelun tehostaminen (SQL)
 Ongelmana oli hidas tiedonhaku. Ratkaisin sen kehittämällä optimoidun SQL-kyselyn.
 
-Katso koodi tästä (Lisää tähän linkki tiedostoosi)
+* Katso koodi tästä (Lisää tähän linkki tiedostoosi) *
 
-* 2. *Datan* visualisointi (Python)
+* Datan visualisointi (Python)
