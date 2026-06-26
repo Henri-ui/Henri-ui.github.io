@@ -19,3 +19,20 @@ Ongelmana oli hidas tiedonhaku. Ratkaisin sen kehittämällä optimoidun SQL-kys
 * Katso koodi tästä (Lisää tähän linkki tiedostoosi) *
 
 * Datan visualisointi (Python)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Osaaminen</h3>
+      <ul>
+        <li><strong>Python:</strong> Data-analyysit (NumPy, Pandas)</li>
+        <li><strong>SQL:</strong> Kyselyt ja datan siivous</li>
+        <li><strong>ArchiMate:</strong> Prosessimallinnus</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Projektit</h3>
+      <p><strong>SQL Optimointi:</strong> Nopeutettu haku.</p>
+      <p><strong>ArchiMate-malli:</strong> Ketterän prosessin visualisointi.</p>
+    </td>
+  </tr>
+</table>
